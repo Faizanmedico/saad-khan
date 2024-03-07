@@ -1,0 +1,18 @@
+a {
+    color: rgb(236, 212, 224);
+  }
+  
+  
+  * { background-color: #7edff0;
+      box-sizing: border-box;
+    }
+    
+    input[type=text], select, textarea {
+      width: 50%;
+      padding: 12px;
+      border: 2px solid #f5dfdf;
+      border-radius: 4px;
+      resize: vertical;
+    }
+    
+    
